@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rifleIMG</folder>
+	<filename>13319-a-young-businessman-holding-a-rifle-pv.jpg</filename>
+	<path>C:\Users\Elliott\Documents\SOFWERXProjects\GunRecognition\rifleIMG\13319-a-young-businessman-holding-a-rifle-pv.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>958</width>
+		<height>1239</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>108</ymin>
+			<xmax>918</xmax>
+			<ymax>1164</ymax>
+		</bndbox>
+	</object>
+</annotation>

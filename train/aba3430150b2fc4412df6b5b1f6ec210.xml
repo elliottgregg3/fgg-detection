@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rifleIMG</folder>
+	<filename>aba3430150b2fc4412df6b5b1f6ec210.jpg</filename>
+	<path>C:\Users\Elliott\Documents\SOFWERXProjects\GunRecognition\rifleIMG\aba3430150b2fc4412df6b5b1f6ec210.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>736</width>
+		<height>736</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>181</ymin>
+			<xmax>641</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rifleIMG</folder>
+	<filename>Dsc_0135-660x314.jpg</filename>
+	<path>C:\Users\Elliott\Documents\SOFWERXProjects\GunRecognition\rifleIMG\Dsc_0135-660x314.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>314</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>26</ymin>
+			<xmax>630</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

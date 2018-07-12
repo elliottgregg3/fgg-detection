@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rifleIMG</folder>
+	<filename>1401509043_omak.jpg</filename>
+	<path>C:\Users\Elliott\Documents\SOFWERXProjects\GunRecognition\rifleIMG\1401509043_omak.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>657</width>
+		<height>693</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>199</ymin>
+			<xmax>627</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

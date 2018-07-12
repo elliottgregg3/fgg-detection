@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rifleIMG</folder>
+	<filename>a-person-holding-a-gun-shoppers-including-a-man-carrying-a-rifle-at-the-gun-show__769571_.jpg</filename>
+	<path>C:\Users\Elliott\Documents\SOFWERXProjects\GunRecognition\rifleIMG\a-person-holding-a-gun-shoppers-including-a-man-carrying-a-rifle-at-the-gun-show__769571_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>616</width>
+		<height>410</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>3</ymin>
+			<xmax>457</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>
