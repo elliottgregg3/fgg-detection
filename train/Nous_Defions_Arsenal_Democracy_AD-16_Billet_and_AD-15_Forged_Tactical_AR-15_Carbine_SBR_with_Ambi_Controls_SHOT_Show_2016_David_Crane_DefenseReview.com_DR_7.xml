@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rifleIMG</folder>
+	<filename>Nous_Defions_Arsenal_Democracy_AD-16_Billet_and_AD-15_Forged_Tactical_AR-15_Carbine_SBR_with_Ambi_Controls_SHOT_Show_2016_David_Crane_DefenseReview.com_DR_7.jpg</filename>
+	<path>C:\Users\Elliott\Documents\SOFWERXProjects\GunRecognition\rifleIMG\Nous_Defions_Arsenal_Democracy_AD-16_Billet_and_AD-15_Forged_Tactical_AR-15_Carbine_SBR_with_Ambi_Controls_SHOT_Show_2016_David_Crane_DefenseReview.com_DR_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>1875</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>455</xmin>
+			<ymin>677</ymin>
+			<xmax>2255</xmax>
+			<ymax>1347</ymax>
+		</bndbox>
+	</object>
+</annotation>

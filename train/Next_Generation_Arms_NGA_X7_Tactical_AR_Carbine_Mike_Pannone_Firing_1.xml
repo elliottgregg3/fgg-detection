@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rifleIMG</folder>
+	<filename>Next_Generation_Arms_NGA_X7_Tactical_AR_Carbine_Mike_Pannone_Firing_1.jpg</filename>
+	<path>C:\Users\Elliott\Documents\SOFWERXProjects\GunRecognition\rifleIMG\Next_Generation_Arms_NGA_X7_Tactical_AR_Carbine_Mike_Pannone_Firing_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1370</width>
+		<height>914</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>243</ymin>
+			<xmax>1179</xmax>
+			<ymax>886</ymax>
+		</bndbox>
+	</object>
+</annotation>
